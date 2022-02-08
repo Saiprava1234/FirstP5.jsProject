@@ -1,0 +1,18 @@
+h3
+{
+    font-size: 25px !important;
+    background-color: dodgerblue;
+    border-color: rgb(0, 0, 255);
+}
+canvas {
+    border:1px solid black;
+    margin: 15px;
+    padding: 5px;
+}
+button{
+    color: aliceblue;
+    background: linear-gradient( 567deg, green, rgb(0, 209, 0) );
+    border-radius:10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
